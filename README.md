@@ -1,6 +1,6 @@
 # tatantanuwijaya_19552011132
 
-A new Flutter project.
+Implementasi intl, bottom navy bar, date picker dan time time picker
 
 ## Getting Started
 
