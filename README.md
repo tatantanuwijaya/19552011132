@@ -1,5 +1,9 @@
 # tatantanuwijaya_19552011132
 
+tugas 1 - pemrograman mobile 2
+Tatan Tanuwijaya
+19552011132
+TIF RP 19CIDA
 Implementasi intl, bottom navy bar, date picker dan time time picker
 
 ## Getting Started
